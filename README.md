@@ -32,7 +32,7 @@ Predict whether income exceeds $50K/yr based on census data
 * Accuracy
 
 <b> The final Accuracy achieved by this model is 86.97 %.
-   It is achieved using Gradient Boosting Classifier. </b>
+   It is achieved using xgboost Classifier. </b>
 
 
 
